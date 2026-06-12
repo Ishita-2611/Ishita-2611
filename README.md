@@ -46,31 +46,39 @@ Passionate about solving problems through technology, building impactful applica
 
 ## 🚀 Featured Projects
 
-### 📡 Multi-Sensor Drone & Bird Classification
-- Micro-Doppler Radar + Acoustic + Thermal Data Fusion
-- AI-based classification for surveillance and security systems
+### 🎯 CareerPro – AI Career Guidance Platform
+- Built an AI-powered career assistance platform that provides personalized career roadmaps, skill-gap analysis, and learning recommendations.
+- Integrated AI-driven resume insights and career planning features to help students make informed career decisions.
+- Tech Stack: React, Node.js, Express.js, MongoDB, AI APIs
 
-### 🌐 ComConnect
-- Community & Event Management Platform
-- Real-time communication, task management, and volunteer coordination
+### 🛒 Store Intelligence – Retail Analytics Dashboard
+- Developed a data-driven analytics platform for monitoring sales performance, inventory trends, and customer behavior.
+- Designed interactive dashboards with actionable insights for business decision-making and operational efficiency.
+- Tech Stack: React, Python, SQL, Data Visualization
 
-### ♿ Smart Writing Assistant for SLD Students
-- Speech-to-Text and Handwriting Assistance
-- Designed to improve accessibility and independent learning
+### 🤖 PlanGenAI – Intelligent Planning Assistant
+- Built an AI-powered planning and productivity platform that generates structured plans, timelines, and task breakdowns from user goals.
+- Leveraged Generative AI to automate planning workflows and improve productivity.
+- Tech Stack: React, Node.js, OpenAI APIs, MongoDB
+
+### 🌐 ComConnect – Community & Event Management Platform
+- Developed a centralized platform for student communities to manage events, volunteers, communication, and task allocation.
+- Implemented real-time messaging, task tracking, notifications, and role-based access control.
+- Tech Stack: MERN Stack, WebSockets, JWT Authentication
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishita-2611&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita-2611&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 Competitive Programming
 
-- Solving DSA problems regularly
+- Solving DSA problems regularly. Knight on Leetcode with 1862 rating.
 - Strong focus on Algorithms, Data Structures, Dynamic Programming, Graphs, and System Design
 - Preparing for Software Engineering Roles
 
